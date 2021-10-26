@@ -1,4 +1,4 @@
-###URL Detection Assignment
+### URL Detection Assignment
 
 A simple python API that takes a screenshot of a browser as input, and outputs the address currently in the address bar.
 
